@@ -15,6 +15,10 @@ Risk Management: Implementing "safety nets" to ensure high-stakes system reliabi
 
 Key takeaway: Technical creativity is most effective when supported by a disciplined framework. I am integrating these Agile principles into my workflow to build more robust and user-centric multimedia solutions.
 
+### 🖼️ Project Materials
+[📄 View Group Poster](https://github.com/arianazaidi/SECP1513-ASSIGNMENT-3/blob/main/Report_TIS_Kumpulan2.pdf)
+
+
 
 
 
